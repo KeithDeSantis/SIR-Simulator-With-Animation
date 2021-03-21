@@ -19,3 +19,13 @@ During a given time step there is:
 This model can be adapted to account for re-infecting by adding a time dependent probability that an R node reverts to an S node, but that is not implemented here.
 
 The program takes a good while to run depending on the size of the connectivity network, but produces an animated GIF of the course of infection in said network.
+
+Color Map for GIF:
+
+Susceptible: Blue
+
+Infected: Yellow/Orange
+
+Recovered: Green
+
+Dead: Red
