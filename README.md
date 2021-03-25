@@ -5,7 +5,9 @@ This Python code creates a graph of a given number of nodes and edges, takes in 
 In SIR, there are three states of nodes,
 
 Susceptible - Uninfected, but may become infected
+
 Infected - Infected and Contagious
+
 Recovered - Recovered and no longer contagious
 
 In this specific model a Death state, where a node is no longer infetious and does not recover.  
