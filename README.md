@@ -10,7 +10,7 @@ Infected - Infected and Contagious
 
 Recovered - Recovered and no longer contagious
 
-In this specific model a Death state, where a node is no longer infetious and does not recover.  
+In this specific model there is also a Death state, where a node is no longer infetious and does not recover.  
 
 During a given time step there is:
 
