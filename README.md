@@ -24,7 +24,7 @@ The program takes a good while to run depending on the size of the connectivity 
 
 Color Map for GIF:
 
-`Susceptible`: <span style="color:blue">*Blue*</span>
+`Susceptible`: <span style="color:blue">Blue</span>
 
 `Infected`: Yellow/Orange
 
