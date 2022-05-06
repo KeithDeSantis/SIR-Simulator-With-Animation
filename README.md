@@ -30,4 +30,4 @@ Color Map for GIF:
 
 `Recovered`: Green
 
-`Dead`: \textcolor{red}{red}
+`Dead`: Red
