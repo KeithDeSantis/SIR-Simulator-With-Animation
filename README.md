@@ -24,7 +24,7 @@ The program takes a good while to run depending on the size of the connectivity 
 
 Color Map for GIF:
 
-`Susceptible`: <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+`Susceptible`: <span style="color:blue">some *blue* text</span>.
 
 `Infected`: Yellow/Orange
 
