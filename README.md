@@ -24,10 +24,10 @@ The program takes a good while to run depending on the size of the connectivity 
 
 Color Map for GIF:
 
-`Susceptible`: <span style="color:blue">some *blue* text</span>.
+`Susceptible`: Blue
 
 `Infected`: Yellow/Orange
 
 `Recovered`: Green
 
-`Dead`: Red
+`Dead`: \textcolor{red}{red}
